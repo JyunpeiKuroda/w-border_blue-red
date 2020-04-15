@@ -1,0 +1,27 @@
+.blue_contents{
+  background-color: rgb(72, 60, 143);
+  height: 50px;
+  margin-top: 30px;
+}
+.blue_content{
+  height: 20;
+  width: 150px;
+  line-height: 50px;
+}
+
+.red_contents{
+  background-color: rgb(180, 38, 38);
+  height: 50px;
+  margin-top: 30px;
+}
+.red_content{
+  height: 20;
+  width: 150px;
+  line-height: 50px;
+}
+
+.content_text{
+  font-size: 25px;
+  color: white;
+  margin: 0px;
+}
