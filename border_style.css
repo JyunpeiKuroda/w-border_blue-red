@@ -2,6 +2,11 @@
   background-color: rgb(72, 60, 143);
   height: 50px;
   margin-top: 30px;
+  /* 角に丸みを持たせる */
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 .blue_content{
   height: 20;
@@ -13,6 +18,10 @@
   background-color: rgb(180, 38, 38);
   height: 50px;
   margin-top: 30px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 .red_content{
   height: 20;
